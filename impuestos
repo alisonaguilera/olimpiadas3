@@ -1,0 +1,28 @@
+#include <iostream>
+#include <math.h>
+using namespace std;
+
+int main()
+{
+    /*
+    float alison;
+    float porcentaje_impuesto;
+    cin>> porcentaje_impuesto;
+     float monto;
+     cin>>monto;
+     float resultado;
+     resultado= porcentaje_impuesto*monto;
+     cout << resultado;
+     */
+     float porcentaje, monto;
+     cout << "Deme el porcentje y el monto" << endl;
+     //cin >> porcentaje >> monto;
+     //cout << "Resultado con impuesto "  << porcentaje *  monto << endl;
+    cout << pow(2,3)<< endl;
+    cout << sqrt(4)<<endl;
+
+
+
+
+    return 0;
+}
